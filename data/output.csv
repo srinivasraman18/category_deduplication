@@ -1,0 +1,681 @@
+"['', 'n a', 'none']",2670 198 employer_phone_ext.csv
+"['10001 new york', '10018 new york', '113 w 60th street new york ny', '210 10th ave new york ny 10011', 'amityville new york', 'brooklyn new york', 'brooklyn new york 11201 united', 'brooklyn new york 11231', 'brooklyn new york city', 'les new york', 'lower east side new york', 'manhattan new york', 'manhattan new york city', 'new york', 'new york 10001', 'new york 10002', 'new york 10003', 'new york 10004', 'new york 10005', 'new york 10009', 'new york 10010', 'new york 10011', 'new york 10012', 'new york 10013', 'new york 10014', 'new york 10016', 'new york 10018', 'new york 10019', 'new york 10020', 'new york 10022', 'new york 10023', 'new york 10024', 'new york 10027', 'new york 10029', 'new york 10036', 'new york 10038', 'new york 10039', 'new york 10128', 'new york 10281', 'new york 10986', 'new york 11205', 'new york 11249', 'new york 11361', 'new york 11693', 'new york 11743', 'new york 11754', 'new york 12498', 'new york brooklyn', 'new york city', 'new york city new york', 'new york city ny 10011 8500', 'new york ctiy', 'new york flushing', 'new york lexington', 'new york los angeles austin', 'new york manhattan', 'new york maplecrest 12454', 'new york midtown west manhattan', 'new york new york', 'new york new york 10038', 'new york ny', 'new york ny 10001', 'new york ny 10003', 'new york ny 10004', 'new york ny 10009', 'new york ny 10010', 'new york ny 10011', 'new york ny 10012', 'new york ny 10013', 'new york ny 10016', 'new york ny 10017', 'new york ny 10018', 'new york ny 10019', 'new york ny 10022', 'new york ny 10024', 'new york ny 10025', 'new york ny 10026', 'new york ny 10027', 'new york ny 10032', 'new york ny 10036', 'new york ny 10065', 'new york ny 10282', 'new york ny 11231', 'new york usa', 'new york10000', 'new york10001', 'new york10024', 'new york11747', 'new yorkbrooklyn', 'new yorklong islang city', 'new yorknew yorknew york', 'new yorkny', 'new yorkny 10001', 'new yorkny 10027', 'new yorkphoenicia', 'new yorksaratoga springs', 'new yorksouthold', 'ny new york 10010', 'queens new york', 'queensnew york', 'soho manhattan new york', 'staten islandnew york', 'west new york', 'west village new york', 'west village new york city']",291 168 city.csv
+"['aattorney at law', 'arrotney at law', 'atorney at law', 'atrorney at law', 'attoney at law', 'attonrey at law', 'attoreny at law', 'attorey at law', 'attornay at law', 'attorne at law', 'attornery at law', 'attornet at law', 'attorney 3i law', 'attorney a law', 'attorney ar law', 'attorney at alw', 'attorney at aw', 'attorney at lalw', 'attorney at law', 'attorney at lawa', 'attorney at lawg', 'attorney atlaw', 'attorney in law', 'attorney law', 'attorney law law', 'attorney of law', 'attorneya at law', 'attorneys at law', 'attorneyt at law', 'attorny at law', 'attornye at law', 'attoryney at law', 'attroney at law', 'attrorney at law', 'atttorney at law', 'atty at law']",1169 198 preparer_info_title.csv
+"['aberdeen', 'aberdeenshire']",167 266 state.csv
+"['accounting and auditing services business services other financial services', 'accounting and auditing servicesbusiness services otherfinancial services']",738 261 organization.csv
+"['accounting and auditing services nonprofit charitable organizations', 'accounting and auditing servicesnonprofit charitable organizations']",738 261 organization.csv
+"['admin', 'administrator']",1169 198 preparer_info_title.csv
+"['advertising and pr services business services other', 'advertising and pr services business services other other not classified', 'advertising and pr servicesbusiness services other', 'advertising and pr servicesbusiness services otherother not classified']",738 261 organization.csv
+"['advertising and pr services management consulting services business services other', 'advertising and pr servicesmanagement consulting servicesbusiness services other']",738 261 organization.csv
+"['advertising and pr services management consulting services other not classified', 'advertising and pr servicesmanagement consulting servicesother not classified']",738 261 organization.csv
+"['advertising and pr services sports and physical recreation business services other', 'advertising and pr servicessports and physical recreationbusiness services other']",738 261 organization.csv
+"['aerospace and defense government and military', 'aerospace and defensegovernment and military']",738 261 organization.csv
+"['agent', 'agentt', 'agetn']",1169 198 preparer_info_title.csv
+"['agent attorney', 'attorney agent']",1169 198 preparer_info_title.csv
+"['agent on behalf of altra consulting services llc', 'agent on behalf of atra consulting services llc']",1169 198 preparer_info_title.csv
+"['ak', 'alaska']",108 198 agent_state.csv
+"['ak', 'alaska']",112 198 foreign_worker_info_state.csv
+"['ak', 'alaska']",113 198 employer_state.csv
+"['ak', 'alaska']",113 198 job_info_work_state.csv
+"['al', 'alabama']",108 198 agent_state.csv
+"['al', 'alabama']",112 198 foreign_worker_info_state.csv
+"['al', 'alabama']",113 198 employer_state.csv
+"['al', 'alabama']",113 198 job_info_work_state.csv
+"['alentejo', 'alenteo']",455 89 province.csv
+"['all advertising and pr services business services other', 'alladvertising and pr servicesbusiness services other']",738 261 organization.csv
+"['american bull dog', 'american bulldog']",1217 355 Breed_Description.csv
+"['american sign language', 'american sign language classes', 'asl sign languages']",961 163 topic_name.csv
+"['an attorney for employer', 'attorney for employer', 'attorney for the employer', 'attorneys for employer']",1169 198 preparer_info_title.csv
+"['anatolian shephard dog', 'anatolian shepherd dog']",1217 355 Breed_Description.csv
+"['anatolian shepherd', 'anotolian shepherd']",1217 355 Breed_Description.csv
+"['apricot white', 'white apricot']",789 355 Colour.csv
+"['ar', 'arkansas']",108 198 agent_state.csv
+"['ar', 'arkansas']",112 198 foreign_worker_info_state.csv
+"['ar', 'arkansas']",113 198 employer_state.csv
+"['ar', 'arkansas']",113 198 job_info_work_state.csv
+"['arizona', 'az']",108 198 agent_state.csv
+"['arizona', 'az']",112 198 foreign_worker_info_state.csv
+"['arizona', 'az']",113 198 employer_state.csv
+"['arizona', 'az']",113 198 job_info_work_state.csv
+"['armory', 'armory auditorium', 'the armory']",928 190 Venue.csv
+"['art', 'art classes', 'arts education']",961 163 topic_name.csv
+"['art and art marketing4', 'art and culture7', 'art and fashion1', 'art and performing arts4', 'art classes5', 'art creating art and perfecting our art6', 'art deco art noveau1', 'art exhibition tours14', 'art for arts sake1', 'art galleries74', 'art journaling3', 'art museums53', 'art photography2', 'art quilting1', 'art walks and tours22', 'art329', 'arthistory6']",961 163 topic_key.csv
+"['arts and craft3', 'arts and literature1', 'arts and social arts6', 'arts crafts for adults1', 'arts crafts for kids2', 'arts crafts show sale fairs2', 'arts education2', 'arts entertainment day night group trips2', 'arts63', 'arttherapy3']",961 163 topic_key.csv
+"['asscociate attorney', 'assiciate attorney', 'assocaite attorney', 'associate atorney', 'associate attoney', 'associate attonrey', 'associate attoreny', 'associate attormey', 'associate attorney', 'associate attroney', 'associtate attorney', 'assoicate attorney', 'assosciate attorney']",1169 198 preparer_info_title.csv
+"['assisstant', 'assistant']",1169 198 preparer_info_title.csv
+"['assistant attorney', 'assistant director isss ut austin', 'assocaite', 'associate', 'assoiciate']",1169 198 preparer_info_title.csv
+"['assistant general counsel', 'associate fragomen del rey bensen loewy llp', 'associate fragomen del rey bernsen loewy ll', 'associate fragomen del rey bernsen loewy llp', 'associate fragomen del rey bersen loewy llp', 'attorney fragomen del rey bernsen loewy llp']",1169 198 preparer_info_title.csv
+"['assistant general counsel the ohio state univ', 'assistant general counsel the ohio state universi', 'associate attorney kuzmin associates p c', 'associate attorney kuzmin associates pc']",1169 198 preparer_info_title.csv
+"['assistant hr', 'assitant hr', 'asst hr']",1169 198 preparer_info_title.csv
+"['associate council', 'associate counsel']",1169 198 preparer_info_title.csv
+"['atlanta east point ga', 'atlanta ga', 'atlanta ga 30301']",738 261 organization.csv
+"['atorney', 'attirney', 'attnorney', 'atto', 'attoenry', 'attonerny', 'attoney', 'attonrey', 'attoreny', 'attormey', 'attornay', 'attorne', 'attorneny', 'attorner', 'attornery', 'attorney', 'attorneyy', 'attornney', 'attornoey', 'attorny', 'attoroney', 'attorrney', 'attrney', 'attroney', 'attrorney', 'atttorney', 'atty', 'the attorney']",1169 198 preparer_info_title.csv
+"['attoreny for petitioner', 'attorney for petitioner', 'attorney for pettioner', 'attorney for the petitioner', 'attorney of the petitioner']",1169 198 preparer_info_title.csv
+"['attorney and counsellor at law', 'attorney and counselor at law', 'attorney counselor at law', 'attorney couselor at law']",1169 198 preparer_info_title.csv
+"['attorney and counselor', 'attorney and principal']",1169 198 preparer_info_title.csv
+"['attorney at casa las americas immigration solution', 'attorney casa las americas immigration solutions']",1169 198 preparer_info_title.csv
+"['attorney at record', 'attorney of record', 'attorney of records', 'attorney of the record', 'attornye of record']",1169 198 preparer_info_title.csv
+"['attorney berry appleman and leiden llp', 'attorney berry appleman leiden', 'attorney berry appleman leiden llp', 'attorney berry appleman lieden llp', 'attorney berry applemen leiden llp']",1169 198 preparer_info_title.csv
+"['attorney for ghafari associates llc', 'attorney to ghafari associates', 'attorney to ghafari associates llc']",1169 198 preparer_info_title.csv
+"['attorney for m reza mizani m d p a', 'attorney for m reza mizani md pa']",1169 198 preparer_info_title.csv
+"['attorney for msx americas', 'attorney for msx americas inc']",1169 198 preparer_info_title.csv
+"['attorney general counsel', 'attorney neral counsel']",1169 198 preparer_info_title.csv
+"['attorney law offce of serafina sands', 'attorney law office of serafina sands']",1169 198 preparer_info_title.csv
+"['attorney mountain states employers council', 'attorney mountain states employers council inc', 'attorney mountain states emplyrs council', 'attorney mtn states employers council']",1169 198 preparer_info_title.csv
+"['attorney representatibe', 'attorney representative']",1169 198 preparer_info_title.csv
+"['auditorio palacio de congresos principe felipe', 'auditorio y palacio de congresos']",928 190 Venue.csv
+"['auditorium', 'the auditorium']",928 190 Venue.csv
+"['auditorium hall', 'auditorium theatre']",928 190 Venue.csv
+"['auditorium parco della musica', 'auditorium parco della musica santa cecilia hall']",928 190 Venue.csv
+"['austin tx', 'austin tx 78701']",738 261 organization.csv
+"['australian dollar', 'australian dollars']",213 327 currency.csv
+"['australian dollar', 'australian dollars']",223 326 currency.csv
+"['automotive and parts mfg automotive sales and repair services', 'automotive and parts mfgautomotive sales and repair services']",738 261 organization.csv
+"['automotive and parts mfg manufacturing other', 'automotive and parts mfgmanufacturing other']",738 261 organization.csv
+"['automotive and parts mfg manufacturing other automotive sales and repair services', 'automotive and parts mfgmanufacturing otherautomotive sales and repair services']",738 261 organization.csv
+"['basking ridge nj', 'basking ridge nj 07920']",738 261 organization.csv
+"['basset hound', 'bassett hound']",1217 355 Breed_Description.csv
+"['bc', 'british columbia']",113 198 employer_state.csv
+"['beaverton or', 'beaverton or 97006']",738 261 organization.csv
+"['beethoven saal', 'beethovenhalle']",928 190 Venue.csv
+"['beige black', 'black beige']",789 355 Colour.csv
+"['beige brown', 'brown beige']",789 355 Colour.csv
+"['beige gold', 'beige golden']",789 355 Colour.csv
+"['beige white', 'white beige']",789 355 Colour.csv
+"['belly dance', 'belly dance lessons', 'belly dance performance', 'bellydance dance belly dancing']",961 163 topic_name.csv
+"['bi', 'bi weekly']",10 198 pw_unit_of_pay_9089.csv
+"['bi', 'bi weekly']",10 198 wage_offer_unit_of_pay_9089.csv
+"['biotechnology pharmaceuticals healthcare services medical devices and supplies', 'biotechnology pharmaceuticalshealthcare servicesmedical devices and supplies']",738 261 organization.csv
+"['biotechnology pharmaceuticals manufacturing other medical devices and supplies', 'biotechnology pharmaceuticalsmanufacturing othermedical devices and supplies']",738 261 organization.csv
+"['biotechnology pharmaceuticals medical devices and supplies', 'biotechnology pharmaceuticalsmedical devices and supplies']",738 261 organization.csv
+"['biotechnology pharmaceuticalsmanufacturing other', 'biotechnology pharmaceuticalsmanufacturing otherother not classified']",738 261 organization.csv
+"['black blue', 'blue black']",789 355 Colour.csv
+"['black brindle', 'brindle black']",789 355 Colour.csv
+"['black brown white', 'white brown black']",789 355 Colour.csv
+"['black caramel', 'caramel black']",789 355 Colour.csv
+"['black cream', 'cream black']",789 355 Colour.csv
+"['black fawn', 'fawn black']",789 355 Colour.csv
+"['black ginger', 'ginger black']",789 355 Colour.csv
+"['black gold', 'gold black']",789 355 Colour.csv
+"['black grey', 'grey black']",789 355 Colour.csv
+"['black orange', 'orange black']",789 355 Colour.csv
+"['black red', 'red black']",789 355 Colour.csv
+"['black sable', 'sable black']",789 355 Colour.csv
+"['black silver', 'silver black']",789 355 Colour.csv
+"['black tan', 'tan black']",789 355 Colour.csv
+"['black tan white', 'tan black white', 'white black tan']",789 355 Colour.csv
+"['black white', 'white black']",789 355 Colour.csv
+"['blond', 'blonde']",789 355 Colour.csv
+"['blonde white', 'white blonde']",789 355 Colour.csv
+"['blue and silver', 'blue silver']",789 355 Colour.csv
+"['blue brown', 'brown blue']",789 355 Colour.csv
+"['blue marle', 'blue merle']",789 355 Colour.csv
+"['blue white', 'white blue']",789 355 Colour.csv
+"['bolshoi hall', 'bolshoi theatre', 'bolshoi zal']",928 190 Venue.csv
+"['boston ma', 'boston ma 94501']",738 261 organization.csv
+"['bouvier des flanders', 'bouvier des flandres']",1217 355 Breed_Description.csv
+"['brad', 'bradly']",388 282 SellerG.csv
+"['brindle brown', 'brown brindle']",789 355 Colour.csv
+"['brindle white', 'white brindle']",789 355 Colour.csv
+"['brown cream', 'cream brown']",789 355 Colour.csv
+"['brown fawn', 'fawn brown']",789 355 Colour.csv
+"['brown ginger', 'ginger brown']",789 355 Colour.csv
+"['brown gold', 'gold brown']",789 355 Colour.csv
+"['brown grey', 'grey brown']",789 355 Colour.csv
+"['brown orange', 'orange brown']",789 355 Colour.csv
+"['brown red', 'red brown']",789 355 Colour.csv
+"['brown tan', 'tan brown']",789 355 Colour.csv
+"['brown white', 'white brown']",789 355 Colour.csv
+"['bull mastiff', 'bullmastiff']",1217 355 Breed_Description.csv
+"['bull mastiff x', 'bullmastiff x']",1217 355 Breed_Description.csv
+"['business and spirituality2', 'business education8', 'business networking for women7', 'business networking international bni8', 'business referral networking427', 'business technology1', 'business to business network marketing9']",961 163 topic_key.csv
+"['business services other', 'business services otherother not classified']",738 261 organization.csv
+"['ca', 'california']",108 198 agent_state.csv
+"['ca', 'california']",112 198 foreign_worker_info_state.csv
+"['ca', 'california']",113 198 employer_state.csv
+"['ca', 'california']",113 198 job_info_work_state.csv
+"['caine terrier', 'cairn terrier']",1217 355 Breed_Description.csv
+"['caramel white', 'white caramel']",789 355 Colour.csv
+"['carnegie chamber music hall at carnegie hall', 'carnegie hall', 'carnegie music hall']",928 190 Venue.csv
+"['case manage paralegal', 'case manager paraegal', 'case manager paralegal']",1169 198 preparer_info_title.csv
+"['central otago', 'central otago marlborough']",455 89 province.csv
+"['chalkidiki', 'halkidiki']",455 89 province.csv
+"['champagne white', 'white champagne']",789 355 Colour.csv
+"['charlotte nc', 'charlotte nc 28202']",738 261 organization.csv
+"['chicago', 'chicago 60602', 'chicago 60605', 'chicago 60606', 'chicago 60607', 'chicago 60608', 'chicago 60610', 'chicago 60611', 'chicago 60613', 'chicago 60614', 'chicago 60616', 'chicago 60618', 'chicago 60622', 'chicago 60623', 'chicago 60625', 'chicago 60626', 'chicago 60640', 'chicago 60646', 'chicago 60647', 'chicago 60654', 'chicago 60657', 'chicago 60659', 'chicago 60661', 'chicago and highland park', 'chicago heights', 'chicago il', 'chicago il 60605', 'chicago il 60605 1226', 'chicago il 60606', 'chicago il 60607', 'chicago il 60611', 'chicago il 60612', 'chicago il 60613', 'chicago il 60619', 'chicago il 60622', 'chicago il 60637', 'chicago il 60640', 'chicago il 60647', 'chicago il 60649', 'chicago il 60654', 'chicago il 60661', 'chicago illinois united states', 'chicago lincoln park', 'chicago northlake', 'chicago ridge', 'chicago river north', 'chicago suburbs', 'chicagoclarks grove', 'chicagolake forest', 'chicagoland', 'chicagoland area', 'chicagoorland park il 60462', 'chicagotinley park', 'chicagowoodstock', 'downtown chicago', 'east chicago', 'greater chicago area and elsewhe', 'north chicago', 'west chicago']",291 168 city.csv
+"['chicago', 'chicago il']",10 162 venue.city.csv
+"['chicago heights il 60411', 'chicago il', 'chicago il 60603', 'chicago il 60606', 'chicago il 60661']",738 261 organization.csv
+"['china', 'cn']",152 127 Label.csv
+"['china', 'cn']",152 131 CountryNumeric2.csv
+"['chinese language77', 'chinese tea culture4']",961 163 topic_key.csv
+"['chocolate white', 'white chocolate']",789 355 Colour.csv
+"['chugh llp', 'the chugh firm', 'the chugh firm apc', 'the chugh frim apc']",1169 198 preparer_info_title.csv
+"['cincinnati oh', 'cincinnati oh 45246']",738 261 organization.csv
+"['city auditorium', 'city hall', 'city hall auditorium']",928 190 Venue.csv
+"['city of industry ca', 'city of industry ca 91744', 'city of industry ca 91748']",738 261 organization.csv
+"['city of london', 'london']",167 266 state.csv
+"['co', 'colorado']",108 198 agent_state.csv
+"['co', 'colorado']",112 198 foreign_worker_info_state.csv
+"['co', 'colorado']",113 198 employer_state.csv
+"['co', 'colorado']",113 198 job_info_work_state.csv
+"['coliseum', 'coliseum theater', 'coliseum theatre', 'college auditorium']",928 190 Venue.csv
+"['coliseum theater', 'coliseum theatre']",928 191 Venue.csv
+"['collie', 'coolie']",1217 355 Breed_Description.csv
+"['collie x', 'coolie x']",1217 355 Breed_Description.csv
+"['collings', 'collins']",388 282 SellerG.csv
+"['colonial theater', 'colonial theatre']",928 190 Venue.csv
+"['colonial theater', 'colonial theatre']",928 191 Venue.csv
+"['columbus oh', 'columbus oh 43016', 'columbus oh 43085', 'columbus oh 43215', 'columbus ohio oh 43085']",738 261 organization.csv
+"['community auditorium emens college', 'community theater']",928 190 Venue.csv
+"['computer hardware computer software computer it services', 'computer hardwarecomputer softwarecomputer it services']",738 261 organization.csv
+"['computer it services other not classified', 'computer it servicesother not classified']",738 261 organization.csv
+"['computer software computer it services', 'computer softwarecomputer it services']",738 261 organization.csv
+"['connecticut', 'ct']",108 198 agent_state.csv
+"['connecticut', 'ct']",112 198 foreign_worker_info_state.csv
+"['connecticut', 'ct']",113 198 employer_state.csv
+"['connecticut', 'ct']",113 198 job_info_work_state.csv
+"['construction industrial facilities and infrastructure construction residential commercial office', 'construction industrial facilities and infrastructureconstruction residential commercial office']",738 261 organization.csv
+"['convention hall', 'convention hall ballroom']",928 190 Venue.csv
+"['coorporate attorney', 'corporate attorney']",1169 198 preparer_info_title.csv
+"['corbin schaffer aviles', 'corporate counsel']",1169 198 preparer_info_title.csv
+"['corp secretary', 'corporate immigration attorney', 'corporate secretary']",1169 198 preparer_info_title.csv
+"['corp secretary officer', 'corporate secretary officer']",1169 198 preparer_info_title.csv
+"['counsel for ics inc', 'counsel for integrated computer solutions inc']",1169 198 preparer_info_title.csv
+"['court square theater', 'court theatre']",928 190 Venue.csv
+"['cowan miller and lederman', 'cowan miller lederman']",1169 198 preparer_info_title.csv
+"['craft classes', 'crafts']",961 163 topic_name.csv
+"['creative spiritual practice1', 'creative writing156', 'creativity acting writing directing3', 'creativity art2', 'credit score education and awareness3']",961 163 topic_key.csv
+"['creative writing', 'creativity acting writing directing']",961 163 topic_name.csv
+"['cultural activities', 'cultural outings']",961 163 topic_name.csv
+"['cultural activities67', 'cultural diversity23', 'cultural outings1', 'culture122']",961 163 topic_key.csv
+"['curly coat retriever', 'curly coated retriever']",1217 355 Breed_Description.csv
+"['dachshund minature', 'dachshund miniature', 'dachshund miniture']",1217 355 Breed_Description.csv
+"['dallas tx', 'dallas tx 75201', 'dallas tx 75202']",738 261 organization.csv
+"['dalmatian', 'dalmation']",1217 355 Breed_Description.csv
+"['dalmatian x', 'dalmation x']",1217 355 Breed_Description.csv
+"['dance african dance and drumming3', 'dance ballroom latin salsa3', 'dance class lets dance3', 'dance dance dance and burn up the floor6', 'dance dance dance4', 'dance fitness35', 'dance lessons169', 'dance music5', 'dance parties20', 'dancing nightlife5', 'dancing477']",961 163 topic_key.csv
+"['dance class lets dance', 'dance dance dance', 'dancing']",961 163 topic_name.csv
+"['danish krone', 'danish krone ddk']",213 327 currency.csv
+"['dc', 'district of columbia']",108 198 agent_state.csv
+"['dc', 'district of columbia']",112 198 foreign_worker_info_state.csv
+"['dc', 'district of columbia']",113 198 employer_state.csv
+"['dc', 'district of columbia']",113 198 job_info_work_state.csv
+"['de', 'delaware']",108 198 agent_state.csv
+"['de', 'delaware']",112 198 foreign_worker_info_state.csv
+"['de', 'delaware']",113 198 employer_state.csv
+"['de', 'delaware']",113 198 job_info_work_state.csv
+"['director human resources', 'director of human resources', 'human resources director']",1169 198 preparer_info_title.csv
+"['director intl student and scholar services', 'director intl student scholar services', 'director isss']",1169 198 preparer_info_title.csv
+"['director of immigration resources', 'director of immigration services']",1169 198 preparer_info_title.csv
+"['doberman', 'dobermann']",1217 355 Breed_Description.csv
+"['doberman x', 'dobermann x']",1217 355 Breed_Description.csv
+"['downtown san francisco', 'live from san francisco', 'los san francisco', 'not necessarily san francisco', 'palo alto san francisco', 'rolling meadowschicago', 's san francisco', 's san francisco palo alto sa', 'san francisco', 'san francisco 94102', 'san francisco 94103', 'san francisco 94104', 'san francisco 94105', 'san francisco 94107', 'san francisco 94108', 'san francisco 94110', 'san francisco 94111', 'san francisco 94118', 'san francisco 94121', 'san francisco 94127', 'san francisco 94129', 'san francisco 94131', 'san francisco 94132', 'san francisco 94921', 'san francisco bay area', 'san francisco ca', 'san francisco ca 94102', 'san francisco ca 94103', 'san francisco ca 94105', 'san francisco ca 94107', 'san francisco ca 94108', 'san francisco ca 94109', 'san francisco ca 94114', 'san francisco ca 94115', 'san francisco ca 94116', 'san francisco ca 94122', 'san francisco ca 94123', 'san francisco ca 94133', 'san francisco ca 94158', 'san francisco city', 'san francisco oakland or your ho', 'san franciscohayward', 'san franciscosan jose', 'san franciscosequoia national pa', 'so san francisco', 'south san francisco', 'ste 200 san francisco', 'treasure island san francisco']",291 168 city.csv
+"['durham nc', 'durham nc 27709']",738 261 organization.csv
+"['eden prairie mn', 'eden prairie mn 55344']",738 261 organization.csv
+"['education of wine1', 'education policy1', 'education reform1', 'education160']",961 163 topic_key.csv
+"['eisenhower hall', 'eisenhower park']",928 190 Venue.csv
+"['electronic dance music27', 'electronics technology1']",961 163 topic_key.csv
+"['elk grove village il', 'elk grove village il 60016']",738 261 organization.csv
+"['emerging fashion', 'emerging fashion designers']",961 163 topic_name.csv
+"['emerging fashion designers1', 'emerging fashion1', 'emerging technologies12']",961 163 topic_key.csv
+"['employer s agent', 'employers agent']",1169 198 preparer_info_title.csv
+"['english is a simple language1', 'english language106', 'english writing skills1']",961 163 topic_key.csv
+"['environment green kids parents moms dads1', 'environmental education12', 'environmental wellness1']",961 163 topic_key.csv
+"['erotic literature', 'erotic writing']",961 163 topic_name.csv
+"['erotic literature1', 'erotic writing1']",961 163 topic_key.csv
+"['esq', 'esqiure', 'esquire']",1169 198 preparer_info_title.csv
+"['esq attorney at law', 'esquire attorney at law']",1169 198 preparer_info_title.csv
+"['european culture', 'european languages culture']",961 163 topic_name.csv
+"['falls church va', 'falls church va 22042']",738 261 organization.csv
+"['fashion 2 09', 'fashion accessory design1', 'fashion and photography2', 'fashion and style202', 'fashion bloggers16', 'fashion boutique4', 'fashion clothes exchange6', 'fashion clothing and manufacture for profit26', 'fashion design85', 'fashion designers5', 'fashion education2', 'fashion entrepreneurs sharing successful secrets70', 'fashion freelancers in nyc1', 'fashion glamour photography13', 'fashion illustration3', 'fashion lovers2', 'fashion marketing3', 'fashion models2', 'fashion photography88', 'fashion retailer27', 'fashion shows24', 'fashion stylists7', 'fashion swap5', 'fashion trends3', 'fashion136']",961 163 topic_key.csv
+"['fashion design', 'fashion designers']",961 163 topic_name.csv
+"['fawn white', 'white fawn']",789 355 Colour.csv
+"['festival hall', 'festival theater', 'festival theatre']",928 190 Venue.csv
+"['festival theater', 'festival theatre']",928 191 Venue.csv
+"['fl', 'florida']",108 198 agent_state.csv
+"['fl', 'florida']",112 198 foreign_worker_info_state.csv
+"['fl', 'florida']",113 198 employer_state.csv
+"['fl', 'florida']",113 198 job_info_work_state.csv
+"['flat coated retriever', 'flatcoated retriever']",1217 355 Breed_Description.csv
+"['fletchers', 'fletchers fletchers']",388 282 SellerG.csv
+"['foster city ca', 'foster city ca 94404']",738 261 organization.csv
+"['founding artisitc director', 'founding artistic director']",1169 198 preparer_info_title.csv
+"['fragomen del rey bernsen loewy llp', 'fragomen del rey bersen loewy llp']",1169 198 preparer_info_title.csv
+"['french bull dog', 'french bulldog']",1217 355 Breed_Description.csv
+"['french bull dog x', 'french bulldog x']",1217 355 Breed_Description.csv
+"['french language', 'french language lovers french language']",961 163 topic_name.csv
+"['g 28 attorney', 'g 28 atty']",1169 198 preparer_info_title.csv
+"['ga', 'georgia']",108 198 agent_state.csv
+"['ga', 'georgia']",112 198 foreign_worker_info_state.csv
+"['ga', 'georgia']",113 198 employer_state.csv
+"['ga', 'georgia']",113 198 job_info_work_state.csv
+"['game', 'games', 'gaming', 'gaming tournaments']",961 163 topic_name.csv
+"['general manager', 'gm']",1169 198 preparer_info_title.csv
+"['german coolie', 'german cooly']",1217 355 Breed_Description.csv
+"['german short haired pointer', 'german shorthaired pointer']",1217 355 Breed_Description.csv
+"['ginger white', 'white ginger']",789 355 Colour.csv
+"['gold white', 'white gold']",789 355 Colour.csv
+"['grand opera', 'grand opera house']",928 190 Venue.csv
+"['great hall city college', 'great hall city college of new york']",928 190 Venue.csv
+"['great hall city college', 'great hall city college of new york']",928 191 Venue.csv
+"['grey brown white', 'white brown grey']",789 355 Colour.csv
+"['grey white', 'white grey']",789 355 Colour.csv
+"['griffin bruxellois', 'griffon bruxellios', 'griffon bruxellois']",1217 355 Breed_Description.csv
+"['griffin bruxellois x', 'griffon bruxellois x']",1217 355 Breed_Description.csv
+"['gu', 'guam']",108 198 agent_state.csv
+"['gu', 'guam']",112 198 foreign_worker_info_state.csv
+"['gu', 'guam']",113 198 employer_state.csv
+"['gu', 'guam']",113 198 job_info_work_state.csv
+"['hato rety', 'hato rey']",107 293 CITY.csv
+"['hawaii', 'hi']",108 198 agent_state.csv
+"['hawaii', 'hi']",112 198 foreign_worker_info_state.csv
+"['hawaii', 'hi']",113 198 employer_state.csv
+"['hawaii', 'hi']",113 198 job_info_work_state.csv
+"['healthcare services', '• healthcare services']",738 261 organization.csv
+"['healthcare services nonprofit charitable organizations other not classified', 'healthcare servicesnonprofit charitable organizationsother not classified']",738 261 organization.csv
+"['healthcare services staffing employment agencies computer it services', 'healthcare servicesstaffing employment agenciescomputer it services']",738 261 organization.csv
+"['hockingstuart', 'hockingstuart hockingstuart']",388 282 SellerG.csv
+"['home', 'homes']",388 282 SellerG.csv
+"['honey white', 'white honey']",789 355 Colour.csv
+"['hotels and lodging restaurant food services other not classified', 'hotels and lodgingrestaurant food servicesother not classified']",738 261 organization.csv
+"['hour', 'hr']",10 198 pw_unit_of_pay_9089.csv
+"['hour', 'hr']",10 198 wage_offer_unit_of_pay_9089.csv
+"['houston tx', 'houston tx 77002', 'houston tx 77055', 'houston tx 77236']",738 261 organization.csv
+"['hr', 'human resources']",1169 198 preparer_info_title.csv
+"['hr manager', 'human resource manager', 'human resources manager']",1169 198 preparer_info_title.csv
+"['human resource assistant', 'human resources assistant', 'human resources of assistant']",1169 198 preparer_info_title.csv
+"['hungarian viszla x', 'hungarian vizsla x']",1217 355 Breed_Description.csv
+"['ia', 'iowa']",108 198 agent_state.csv
+"['ia', 'iowa']",112 198 foreign_worker_info_state.csv
+"['ia', 'iowa']",113 198 employer_state.csv
+"['ia', 'iowa']",113 198 job_info_work_state.csv
+"['id', 'idaho']",108 198 agent_state.csv
+"['id', 'idaho']",112 198 foreign_worker_info_state.csv
+"['id', 'idaho']",113 198 employer_state.csv
+"['id', 'idaho']",113 198 job_info_work_state.csv
+"['il', 'illinois']",108 198 agent_state.csv
+"['il', 'illinois']",112 198 foreign_worker_info_state.csv
+"['il', 'illinois']",113 198 employer_state.csv
+"['il', 'illinois']",113 198 job_info_work_state.csv
+"['immgiration counsel', 'immigratiion counsel', 'immigratin counsel', 'immigration council', 'immigration counsel', 'immigrtion counsel']",1169 198 preparer_info_title.csv
+"['immigraiton attorney', 'immigration attorney']",1169 198 preparer_info_title.csv
+"['immigration specialist', 'immigrations specialist']",1169 198 preparer_info_title.csv
+"['in', 'indiana']",108 198 agent_state.csv
+"['in', 'indiana']",112 198 foreign_worker_info_state.csv
+"['in', 'indiana']",113 198 employer_state.csv
+"['in', 'indiana']",113 198 job_info_work_state.csv
+"['in house counsel', 'in house counsel for employer']",1169 198 preparer_info_title.csv
+"['insurance accounting and auditing services financial services', 'insuranceaccounting and auditing servicesfinancial services']",738 261 organization.csv
+"['insurance financial services', 'insurancefinancial services']",738 261 organization.csv
+"['insurance healthcare services', 'insurancehealthcare services']",738 261 organization.csv
+"['irish wolf hound', 'irish wolfhound']",1217 355 Breed_Description.csv
+"['jack russell terrier x', 'jack russell terrierx']",1217 355 Breed_Description.csv
+"['kansas', 'ks']",108 198 agent_state.csv
+"['kansas', 'ks']",112 198 foreign_worker_info_state.csv
+"['kansas', 'ks']",113 198 employer_state.csv
+"['kansas', 'ks']",113 198 job_info_work_state.csv
+"['kay', 'kaye']",388 282 SellerG.csv
+"['kentucky', 'ky']",108 198 agent_state.csv
+"['kentucky', 'ky']",112 198 foreign_worker_info_state.csv
+"['kentucky', 'ky']",113 198 employer_state.csv
+"['kentucky', 'ky']",113 198 job_info_work_state.csv
+"['kurhaus', 'kurhaus saal']",928 190 Venue.csv
+"['la', 'louisiana']",108 198 agent_state.csv
+"['la', 'louisiana']",112 198 foreign_worker_info_state.csv
+"['la', 'louisiana']",113 198 employer_state.csv
+"['la', 'louisiana']",113 198 job_info_work_state.csv
+"['lagotto romaenolo', 'lagotto romagnolo']",1217 355 Breed_Description.csv
+"['lake', 'lakes']",928 35 region.csv
+"['law clerk', 'law crerk']",1169 198 preparer_info_title.csv
+"['law offices of edward r white', 'law offices of edward r white pc']",1169 198 preparer_info_title.csv
+"['legal asistant', 'legal assistant']",1169 198 preparer_info_title.csv
+"['legal represantive', 'legal representative', 'legal repressontative']",1169 198 preparer_info_title.csv
+"['lemnos', 'limnos']",455 89 province.csv
+"['level dollar closed', 'level dollarclosed']",11 352 FundingMeth_GASB.csv
+"['lgbt book club5', 'lgbt business networking1', 'lgbt camera club1', 'lgbt christians4', 'lgbt church1', 'lgbt families bay area1', 'lgbt families san francisco1', 'lgbt families9', 'lgbt film1', 'lgbt friendly76', 'lgbt glbt families3', 'lgbt health wellness2', 'lgbt high tech workers1', 'lgbt mothers and fathers1', 'lgbt networking1', 'lgbt ny1', 'lgbt parenting1', 'lgbt parents9', 'lgbt photographers1', 'lgbt professionals1', 'lgbt rights4', 'lgbt singles2', 'lgbt social activism3', 'lgbt social group197', 'lgbt spirituality2', 'lgbt sports4', 'lgbt support4', 'lgbt travel2', 'lgbtfriends297']",961 163 topic_key.csv
+"['lincoln square', 'lincoln square theatre', 'lincoln theater']",928 190 Venue.csv
+"['liver white', 'white liver']",789 355 Colour.csv
+"['llm llmc paralegal', 'llmc paralegal']",1169 198 preparer_info_title.csv
+"['lyric theater', 'lyric theatre']",928 190 Venue.csv
+"['lyric theater', 'lyric theatre']",928 191 Venue.csv
+"['m j', 'mj']",388 282 SellerG.csv
+"['ma', 'massachusetts']",108 198 agent_state.csv
+"['ma', 'massachusetts']",112 198 foreign_worker_info_state.csv
+"['ma', 'massachusetts']",113 198 employer_state.csv
+"['ma', 'massachusetts']",113 198 job_info_work_state.csv
+"['maine', 'me']",108 198 agent_state.csv
+"['maine', 'me']",112 198 foreign_worker_info_state.csv
+"['maine', 'me']",113 198 employer_state.csv
+"['maine', 'me']",113 198 job_info_work_state.csv
+"['majestic theater', 'majestic theatre']",928 190 Venue.csv
+"['majestic theater', 'majestic theatre']",928 191 Venue.csv
+"['management consulting services business services other other not classified', 'management consulting servicesbusiness services otherother not classified']",738 261 organization.csv
+"['manager', 'manager 08 18 2016']",1169 198 preparer_info_title.csv
+"['managing attorney', 'manging partner']",1169 198 preparer_info_title.csv
+"['managing partner', 'marine operations manager']",1169 198 preparer_info_title.csv
+"['manufacturing other engineering services', 'manufacturing otherengineering services']",738 261 organization.csv
+"['manufacturing other food and beverage production', 'manufacturing otherfood and beverage production']",738 261 organization.csv
+"['manufacturing other medical devices and supplies', 'manufacturing othermedical devices and supplies']",738 261 organization.csv
+"['maremma sheep dog', 'maremma sheepdog']",1217 355 Breed_Description.csv
+"['maremma sheep dog x', 'maremma sheepdog x']",1217 355 Breed_Description.csv
+"['marlborough', 'martinborough']",455 89 province.csv
+"['marshall islands', 'mh']",112 198 foreign_worker_info_state.csv
+"['marshall islands', 'mh']",113 198 job_info_work_state.csv
+"['maryland', 'md']",108 198 agent_state.csv
+"['maryland', 'md']",112 198 foreign_worker_info_state.csv
+"['maryland', 'md']",113 198 employer_state.csv
+"['maryland', 'md']",113 198 job_info_work_state.csv
+"['mastif', 'mastiff']",1217 355 Breed_Description.csv
+"['mayaguez', 'mayaquez']",107 293 CITY.csv
+"['memorial auditorium', 'memorial coliseum', 'memorial hall']",928 190 Venue.csv
+"['metals and minerals manufacturing other', 'metals and mineralsmanufacturing other']",738 261 organization.csv
+"['metropolitan hall', 'metropolitan theatre']",928 190 Venue.csv
+"['metropolitan opera house 39th street', 'metropolitan opera house at lincoln center']",928 190 Venue.csv
+"['mi', 'michigan']",108 198 agent_state.csv
+"['mi', 'michigan']",112 198 foreign_worker_info_state.csv
+"['mi', 'michigan']",113 198 employer_state.csv
+"['mi', 'michigan']",113 198 job_info_work_state.csv
+"['miami beach auditorium', 'miami beach theater']",928 190 Venue.csv
+"['miller auditorium', 'miller theatre columbia university']",928 190 Venue.csv
+"['milpitas ca 95035', 'milpitas ca 95134']",738 261 organization.csv
+"['milwaukee wi', 'milwaukee wi 53224']",738 261 organization.csv
+"['miniature schnauser', 'miniature schnauzer']",1217 355 Breed_Description.csv
+"['minnesota', 'mn']",108 198 agent_state.csv
+"['minnesota', 'mn']",112 198 foreign_worker_info_state.csv
+"['minnesota', 'mn']",113 198 employer_state.csv
+"['minnesota', 'mn']",113 198 job_info_work_state.csv
+"['minnetonka mn', 'minnetonka mn 55343']",738 261 organization.csv
+"['mississippi', 'ms']",108 198 agent_state.csv
+"['mississippi', 'ms']",112 198 foreign_worker_info_state.csv
+"['mississippi', 'ms']",113 198 employer_state.csv
+"['mississippi', 'ms']",113 198 job_info_work_state.csv
+"['missouri', 'mo']",108 198 agent_state.csv
+"['missouri', 'mo']",112 198 foreign_worker_info_state.csv
+"['missouri', 'mo']",113 198 employer_state.csv
+"['missouri', 'mo']",113 198 job_info_work_state.csv
+"['montana', 'mt']",108 198 agent_state.csv
+"['montana', 'mt']",112 198 foreign_worker_info_state.csv
+"['montana', 'mt']",113 198 employer_state.csv
+"['montana', 'mt']",113 198 job_info_work_state.csv
+"['montgomery oh', 'montgomery oh 45242']",738 261 organization.csv
+"['month', 'mth']",10 198 pw_unit_of_pay_9089.csv
+"['month', 'mth']",10 198 wage_offer_unit_of_pay_9089.csv
+"['morphological id b res associate', 'morphological id by res associate']",55 351 IdentificationQualifier.csv
+"['movie buffs1', 'movie classics1', 'movie fanatics1', 'movie makers1', 'movie making2', 'movie nights80', 'movie parties at somebodys house1', 'movie production6', 'movie screening2', 'movie watchers1', 'movies bowling concerts and local events2', 'movies in movie theaters33', 'movies in movie theatres1', 'movies158']",961 163 topic_key.csv
+"['mp', 'northern mariana islands']",112 198 foreign_worker_info_state.csv
+"['mp', 'northern mariana islands']",113 198 employer_state.csv
+"['mp', 'northern mariana islands']",113 198 job_info_work_state.csv
+"['municipal auditorium', 'municipal theatre']",928 190 Venue.csv
+"['munsterlander', 'musterlander']",1217 355 Breed_Description.csv
+"['music and parties1', 'music appreciation11', 'music business networking7', 'music business strategies2', 'music composition5', 'music creativity1', 'music dancing concerts live music parties3', 'music education1', 'music festivals8', 'music for every age and experience1', 'music group1', 'music industry38', 'music knowledge1', 'music lovers4', 'music production45', 'music sound1', 'music technology10', 'music theory2', 'music videos1', 'music371', 'musicals11', 'musictherapy1']",961 163 topic_key.csv
+"['music hall', 'musikhalle', 'musikverein']",928 190 Venue.csv
+"['nc', 'north carolina']",108 198 agent_state.csv
+"['nc', 'north carolina']",112 198 foreign_worker_info_state.csv
+"['nc', 'north carolina']",113 198 employer_state.csv
+"['nc', 'north carolina']",113 198 job_info_work_state.csv
+"['nd', 'north dakota']",108 198 agent_state.csv
+"['nd', 'north dakota']",112 198 foreign_worker_info_state.csv
+"['nd', 'north dakota']",113 198 employer_state.csv
+"['nd', 'north dakota']",113 198 job_info_work_state.csv
+"['ne', 'nebraska']",108 198 agent_state.csv
+"['ne', 'nebraska']",112 198 foreign_worker_info_state.csv
+"['ne', 'nebraska']",113 198 employer_state.csv
+"['ne', 'nebraska']",113 198 job_info_work_state.csv
+"['neapolitan mastiff', 'neopolitan mastiff']",1217 355 Breed_Description.csv
+"['neapolitan mastiff x', 'neopolitan mastiff x']",1217 355 Breed_Description.csv
+"['network for single professionals1', 'networking and professional development1', 'networking for christian professionals in business2', 'networking for marketing professionals4', 'networking for technology professionals3', 'networking for young professionals6', 'networking in the fashion industry4', 'networking social gatherings5', 'networking with hr professionals50', 'networking writing publishing related2', 'new age spirituality4']",961 163 topic_key.csv
+"['nevada', 'nv']",108 198 agent_state.csv
+"['nevada', 'nv']",112 198 foreign_worker_info_state.csv
+"['nevada', 'nv']",113 198 employer_state.csv
+"['nevada', 'nv']",113 198 job_info_work_state.csv
+"['new hampshire', 'nh']",108 198 agent_state.csv
+"['new hampshire', 'nh']",112 198 foreign_worker_info_state.csv
+"['new hampshire', 'nh']",113 198 employer_state.csv
+"['new hampshire', 'nh']",113 198 job_info_work_state.csv
+"['new jersey', 'nj']",108 198 agent_state.csv
+"['new jersey', 'nj']",112 198 foreign_worker_info_state.csv
+"['new jersey', 'nj']",113 198 employer_state.csv
+"['new jersey', 'nj']",113 198 job_info_work_state.csv
+"['new mexico', 'nm']",108 198 agent_state.csv
+"['new mexico', 'nm']",112 198 foreign_worker_info_state.csv
+"['new mexico', 'nm']",113 198 employer_state.csv
+"['new mexico', 'nm']",113 198 job_info_work_state.csv
+"['new york', 'new york city', 'new yorkny']",10 162 venue.city.csv
+"['new york', 'ny']",108 198 agent_state.csv
+"['new york', 'ny']",112 198 foreign_worker_info_state.csv
+"['new york', 'ny']",113 198 employer_state.csv
+"['new york', 'ny']",113 198 job_info_work_state.csv
+"['new york ny', 'new york ny 10012', 'new york ny 10019']",738 261 organization.csv
+"['new zealand dollar', 'new zealand dollars']",223 326 currency.csv
+"['ngultrum', 'ngultum']",190 328 currency.csv
+"['north', 'north west', 'north western']",928 35 region.csv
+"['northbrook il', 'northbrook il 60062']",738 261 organization.csv
+"['norwegian elk hound', 'norwegian elkhound']",1217 355 Breed_Description.csv
+"['o brien', 'obrien']",388 282 SellerG.csv
+"['of counsel', 'of cousel']",1169 198 preparer_info_title.csv
+"['oh', 'ohio']",108 198 agent_state.csv
+"['oh', 'ohio']",112 198 foreign_worker_info_state.csv
+"['oh', 'ohio']",113 198 employer_state.csv
+"['oh', 'ohio']",113 198 job_info_work_state.csv
+"['ok', 'oklahoma']",108 198 agent_state.csv
+"['ok', 'oklahoma']",112 198 foreign_worker_info_state.csv
+"['ok', 'oklahoma']",113 198 employer_state.csv
+"['ok', 'oklahoma']",113 198 job_info_work_state.csv
+"['old english sheep dog', 'old english sheepdog']",1217 355 Breed_Description.csv
+"['omaha ne', 'omaha ne 68124']",738 261 organization.csv
+"['or', 'oregon']",108 198 agent_state.csv
+"['or', 'oregon']",112 198 foreign_worker_info_state.csv
+"['or', 'oregon']",113 198 employer_state.csv
+"['or', 'oregon']",113 198 job_info_work_state.csv
+"['orange white', 'white orange']",789 355 Colour.csv
+"['orpheum theatre', 'orpheus hall']",928 190 Venue.csv
+"['ouguiya', 'ouguiyas']",223 326 currency.csv
+"['outdoor adventurers for women4', 'outdoor adventures for infants and toddlers1', 'outdoor adventures220', 'outdoor basketball8', 'outdoor cooking recipes1', 'outdoor fitness boot camp20', 'outdoor fitness230', 'outdoor games1', 'outdoor indoor pub crawls1', 'outdoor music concerts3', 'outdoor photography2', 'outdoor recreation outdoor adventures11', 'outdoor sketching1', 'outdoor soccer74', 'outdoor sports1', 'outdoor survival skills3', 'outdoor tennis26', 'outdoor volleyball19', 'outdoor volunteer opportunities2', 'outdoor workout bootcamp6', 'outdoor yoga25', 'outdoors676']",961 163 topic_key.csv
+"['pa', 'pennsylvania']",108 198 agent_state.csv
+"['pa', 'pennsylvania']",112 198 foreign_worker_info_state.csv
+"['pa', 'pennsylvania']",113 198 employer_state.csv
+"['pa', 'pennsylvania']",113 198 job_info_work_state.csv
+"['pageon', 'pangeon']",455 89 province.csv
+"['papillion', 'papillon']",1217 355 Breed_Description.csv
+"['para legal', 'paralegal', 'paralegla']",1169 198 preparer_info_title.csv
+"['parents helping parents4', 'parents meeting parents3', 'parents of aspergers kids6', 'parents of biracial children2', 'parents of gifted children4', 'parents of preschoolers2', 'parents of school aged children2', 'parents of special needs children6', 'parents of teenagers1', 'parents of teens3', 'parents of tweens1', 'parents with young children2']",961 163 topic_key.csv
+"['park theater', 'park theatre']",928 190 Venue.csv
+"['parner', 'parnter', 'parter', 'partern', 'parther', 'partmer', 'partner', 'partnet']",1169 198 preparer_info_title.csv
+"['partner and attorney at law', 'partner attoreny at law', 'partner attorney at law']",1169 198 preparer_info_title.csv
+"['partner attorney of record', 'pastor']",1169 198 preparer_info_title.csv
+"['partner baird holm llp', 'partner of the firm']",1169 198 preparer_info_title.csv
+"['partner fragomen del rey bernsen loewy', 'partner fragomen del rey bernsen loewy llp', 'partner fragomen del rey bersen loewy llp']",1169 198 preparer_info_title.csv
+"['partner garganigo goldsmith weiss', 'partner garganigo goldsmith wess']",1169 198 preparer_info_title.csv
+"['partner gibney anthony flaherty llp', 'patner gibney anthony flaherty llp']",1169 198 preparer_info_title.csv
+"['partner pryor cashman llp', 'pasricha patel llc']",1169 198 preparer_info_title.csv
+"['pdte alcc', 'pdte allc']",1169 198 preparer_info_title.csv
+"['pekinese', 'pekingese']",1217 355 Breed_Description.csv
+"['performing arts center', 'performing arts center tulsa']",928 190 Venue.csv
+"['pharaoh hound', 'pharoah hound', 'pharoh hound']",1217 355 Breed_Description.csv
+"['philharmonic auditorium', 'philharmonic hall', 'philharmonic hall karl szymanowski', 'philharmonie', 'philharmonie alfried krupp hall', 'philharmonie de paris la', 'philharmonie luxembourg joséphine charlotte']",928 190 Venue.csv
+"['poli s theatre', 'poli theater']",928 190 Venue.csv
+"['poli s theatre', 'poli theater']",928 191 Venue.csv
+"['portugese water dog', 'portuguese water dog']",1217 355 Breed_Description.csv
+"['pr', 'puerto rico']",108 198 agent_state.csv
+"['pr', 'puerto rico']",112 198 foreign_worker_info_state.csv
+"['pr', 'puerto rico']",113 198 employer_state.csv
+"['pr', 'puerto rico']",113 198 job_info_work_state.csv
+"['prd', 'prdnationwide']",388 282 SellerG.csv
+"['pres', 'president', 'prez']",1169 198 preparer_info_title.csv
+"['president alcc', 'president alcc inc', 'president alien labor certification consultant']",1169 198 preparer_info_title.csv
+"['president alccc', 'president alccc inc', 'president alcccinc', 'president alien labor cert cons co inc']",1169 198 preparer_info_title.csv
+"['principal', 'principle']",1169 198 preparer_info_title.csv
+"['principal and managing attorney', 'principal managing attorney']",1169 198 preparer_info_title.csv
+"['principal attorney', 'principle attorney']",1169 198 preparer_info_title.csv
+"['professional and social networking6', 'professional bussiness networking1', 'professional lesbian gay couples social club1', 'professional lesbians45', 'professional network marketers group1', 'professional networking for actors5', 'professional networking1582', 'professional photography3', 'professional women networking1', 'professional womens networking group4']",961 163 topic_key.csv
+"['property', 'propertyau']",388 282 SellerG.csv
+"['pyrenean mountain dog', 'pyrenean mountian dog']",1217 355 Breed_Description.csv
+"['queen elisabeth hall', 'queen elizabeth theatre']",928 190 Venue.csv
+"['raleigh nc', 'raleigh nc 27607']",738 261 organization.csv
+"['red white', 'white red']",789 355 Colour.csv
+"['redmond wa', 'redmond wa 98052', 'redwood city ca 94063']",738 261 organization.csv
+"['represenative', 'representative', 'representatve']",1169 198 preparer_info_title.csv
+"['represenative with gulf coast asian resources', 'representative with gulf coast asian resources']",1169 198 preparer_info_title.csv
+"['restaurant food services food and beverage production', 'restaurant food servicesfood and beverage production']",738 261 organization.csv
+"['restaurant food services food and beverage production other not classified', 'restaurant food servicesfood and beverage productionother not classified']",738 261 organization.csv
+"['restaurant food services other not classified', 'restaurant food servicesother not classified']",738 261 organization.csv
+"['retail advertising and pr services', 'retailadvertising and pr services']",738 261 organization.csv
+"['retail advertising and pr services business services other', 'retailadvertising and pr servicesbusiness services other']",738 261 organization.csv
+"['retail advertising and pr services management consulting services', 'retailadvertising and pr servicesmanagement consulting services']",738 261 organization.csv
+"['retail advertising and pr services other not classified', 'retailadvertising and pr servicesother not classified']",738 261 organization.csv
+"['retail advertising and pr services restaurant food services', 'retailadvertising and pr servicesrestaurant food services']",738 261 organization.csv
+"['retail management consulting services business services other', 'retailmanagement consulting servicesbusiness services other']",738 261 organization.csv
+"['retail rental services restaurant food services', 'retailrental servicesrestaurant food services']",738 261 organization.csv
+"['retail telecommunications services advertising and pr services', 'retailtelecommunications servicesadvertising and pr services']",738 261 organization.csv
+"['retail telecommunications services business services other', 'retailtelecommunications servicesbusiness services other']",738 261 organization.csv
+"['rhode island', 'ri']",108 198 agent_state.csv
+"['rhode island', 'ri']",112 198 foreign_worker_info_state.csv
+"['rhode island', 'ri']",113 198 employer_state.csv
+"['rhode island', 'ri']",113 198 job_info_work_state.csv
+"['ribatejano', 'ribatejo']",455 89 province.csv
+"['richardson tx', 'richardson tx 75082']",738 261 organization.csv
+"['role playing games rpgs18', 'roleplaying games rpgs47']",961 163 topic_key.csv
+"['roseville ca', 'roseville ca 95747']",738 261 organization.csv
+"['round rock tx', 'round rock tx 78682']",738 261 organization.csv
+"['russian rouble', 'russian ruble']",190 328 currency.csv
+"['russian rouble', 'russian ruble']",213 327 currency.csv
+"['russian rouble', 'russian ruble']",223 326 currency.csv
+"['sable tan', 'tan sable']",789 355 Colour.csv
+"['sable white', 'white sable']",789 355 Colour.csv
+"['san antonio tx', 'san antonio tx 78205']",738 261 organization.csv
+"['san francisco', 'san francisco ca 94103']",10 162 venue.city.csv
+"['san francisco ca', 'san francisco ca 94105', 'san francisco ca 94111', 'san francisco ca ca 94107']",738 261 organization.csv
+"['san juan', 'san juans', 'sanjuan']",107 293 CITY.csv
+"['sandy white', 'white sandy']",789 355 Colour.csv
+"['santa clara ca', 'santa clara ca 95054']",738 261 organization.csv
+"['sc', 'south carolina']",108 198 agent_state.csv
+"['sc', 'south carolina']",112 198 foreign_worker_info_state.csv
+"['sc', 'south carolina']",113 198 employer_state.csv
+"['sc', 'south carolina']",113 198 job_info_work_state.csv
+"['schnauser', 'schnauzer']",1217 355 Breed_Description.csv
+"['science and spirituality3', 'science and technology1', 'science education5', 'science technology engineering math6', 'science technology2']",961 163 topic_key.csv
+"['science and technology', 'science technology']",961 163 topic_name.csv
+"['sd', 'south dakota']",108 198 agent_state.csv
+"['sd', 'south dakota']",112 198 foreign_worker_info_state.csv
+"['sd', 'south dakota']",113 198 employer_state.csv
+"['sd', 'south dakota']",113 198 job_info_work_state.csv
+"['senior associate', 'senior assoicate', 'sr associate']",1169 198 preparer_info_title.csv
+"['senior associate attoney at law', 'senior associate attorney at law', 'sr associate attorney at law', 'sr associate attorney attorney at law', 'sr assolciate attorney at law']",1169 198 preparer_info_title.csv
+"['senior associate attorney', 'sr associate attorney']",1169 198 preparer_info_title.csv
+"['senior attorney', 'sr attorney']",1169 198 preparer_info_title.csv
+"['senior councel gibney anthony and flaherty llp', 'senior counsel gbiney anthony flaherty llp', 'senior counsel gibey anthony flaherty llp', 'senior counsel gibney anthony and flaherty llp', 'senior counsel gibney anthony flaherty llp', 'senior counsel gibney anthony glaherty llp', 'senior counsel gigney anthony flaherty llp', 'senior gibney anthony flaherty llp', 'sr counsel gibney anthony and flaherty llp', 'sr counsel gibney anthony flaherty llp']",1169 198 preparer_info_title.csv
+"['senior counsel', 'sr counsel']",1169 198 preparer_info_title.csv
+"['senior legal asst', 'sr legal asst']",1169 198 preparer_info_title.csv
+"['senior paralegal', 'sr paralegal']",1169 198 preparer_info_title.csv
+"['senior partner', 'sr staff attorney']",1169 198 preparer_info_title.csv
+"['senior supervising attorney', 'sr supervising attorney']",1169 198 preparer_info_title.csv
+"['shanghai symphony hall', 'shanghai symphony hall chamber hall']",928 190 Venue.csv
+"['shareholder', 'sharholder']",1169 198 preparer_info_title.csv
+"['shetland sheep dog', 'shetland sheepdog']",1217 355 Breed_Description.csv
+"['shetland sheep dog x', 'shetland sheepdog x']",1217 355 Breed_Description.csv
+"['shih tzu', 'shihtzu']",1217 355 Breed_Description.csv
+"['shimin kaikan', 'shimin kaikan nagoya']",928 190 Venue.csv
+"['shubert majestic theatre', 'shubert theater']",928 190 Venue.csv
+"['silver tan', 'tan silver']",789 355 Colour.csv
+"['silver white', 'white silver']",789 355 Colour.csv
+"['single parent day trips1', 'single parent support group13', 'single parents and kids2', 'single parents divorced parents widowed parents5', 'single parents of teenagers1', 'single parents of toddlers1', 'single parents without other parent local1', 'single parties58', 'single professional parents2', 'single professionals who love the creative arts1', 'singles dancing parties2', 'singles dancing13', 'singles friends social network enjoying life3']",961 163 topic_key.csv
+"['social activism4', 'social and professional networking for educators4', 'social anxiety43', 'social connection mentorship1', 'social crafting1', 'social dancing168', 'social entrepreneurship128', 'social equality4', 'social events for 50 singles12', 'social games4', 'social get togethers for italian greyhound owners1', 'social group for girls13', 'social innovation53', 'social intelligence1', 'social justice101', 'social marketing4', 'social media for social change7', 'social media for social good3', 'social media marketing283', 'social media169', 'social moms1', 'social network for outdoor activities3', 'social networking business networking jobs10', 'social networking chat chew and chocolate1', 'social networking for media professionals1', 'social networking for mental health professionals6', 'social networking for widows widowers5', 'social skills5', 'social social social17', 'social sporting and cultural activities1', 'social welfare2', 'social1447', 'socialism6', 'socialization for dogs7', 'socializing among desis2', 'socializing for 4032', 'socializing for the disabled7', 'socializing for young women7', 'socially environmentally responsible investing4', 'socialnetwork1848', 'socialsoftware6', 'socialwork6']",961 163 topic_key.csv
+"['social media for social change', 'social media for social good']",961 163 topic_name.csv
+"['social welfare', 'social work']",961 163 topic_name.csv
+"['soft coat wheaten terrier', 'soft coated wheaten terrier', 'soft coated wheaton terrier']",1217 355 Breed_Description.csv
+"['special counsel for ohio att y gen mike dewine', 'special counsel to ohio att y gen mike dewine']",1169 198 preparer_info_title.csv
+"['spiritual alchemy4', 'spiritual awareness and spiritual awareness events1', 'spiritual awareness1', 'spiritual books and philosophy1', 'spiritual coaching1', 'spiritual community2', 'spiritual development18', 'spiritual discussion2', 'spiritual evolution4', 'spiritual exercises3', 'spiritual exploration1', 'spiritual growth434', 'spiritual guidance1', 'spiritual healing42', 'spiritual music1', 'spiritual psychology13', 'spiritual wellness1', 'spiritualism62', 'spirituality spiritual growth8', 'spirituality916']",961 163 topic_key.csv
+"['spiritual awareness', 'spiritual awareness and spiritual awareness events']",961 163 topic_name.csv
+"['spiritualism', 'spirituality']",961 163 topic_name.csv
+"['stadsteater', 'stadthalle']",928 190 Venue.csv
+"['stag hound', 'staghound']",1217 355 Breed_Description.csv
+"['sunnyvale ca', 'sunnyvale ca 94086']",738 261 organization.csv
+"['südoststeiermark', 'südsteiermark']",455 89 province.csv
+"['tan white', 'white tan']",789 355 Colour.csv
+"['tanzania shilling', 'tanzanian shilling']",223 326 currency.csv
+"['tanzania shilling', 'tanzanian shilling']",87 325 currency.csv
+"['tanzania shilling', 'tanzanian shilling']",96 323 currency.csv
+"['technology computer forensics data recovery3', 'technology consulting3', 'technology entrepreneurs4', 'technology innovation14', 'technology networking3', 'technology professionals134', 'technology security audits17', 'technology625']",961 163 topic_key.csv
+"['telecommunications services advertising and pr services business services other', 'telecommunications servicesadvertising and pr servicesbusiness services other']",738 261 organization.csv
+"['tennessee', 'tn']",108 198 agent_state.csv
+"['tennessee', 'tn']",112 198 foreign_worker_info_state.csv
+"['tennessee', 'tn']",113 198 employer_state.csv
+"['tennessee', 'tn']",113 198 job_info_work_state.csv
+"['texas', 'tx']",108 198 agent_state.csv
+"['texas', 'tx']",112 198 foreign_worker_info_state.csv
+"['texas', 'tx']",113 198 employer_state.csv
+"['texas', 'tx']",113 198 job_info_work_state.csv
+"['tibetan terrier', 'tibetian terrier']",1217 355 Breed_Description.csv
+"['tokaj', 'tokaji']",455 89 province.csv
+"['tonhalle', 'town hall']",928 190 Venue.csv
+"['trader education', 'trading education']",961 163 topic_name.csv
+"['trader education3', 'trading card games3', 'trading education1']",961 163 topic_key.csv
+"['transmontanas', 'transmontano']",455 89 province.csv
+"['travel industry2', 'travel photography61', 'travel technology6']",961 163 topic_key.csv
+"['tri colored', 'tri colour']",789 355 Colour.csv
+"['trujillo altl', 'trujillo alto']",107 293 CITY.csv
+"['university armory', 'university armory hall']",928 190 Venue.csv
+"['us ambasador residence', 'us ambassador residence']",928 190 Venue.csv
+"['us ambasador residence', 'us ambassador residence']",928 191 Venue.csv
+"['us dollar', 'us dollars']",87 325 currency.csv
+"['us dollar', 'us dollars']",95 324 currency.csv
+"['us dollar', 'us dollars']",96 323 currency.csv
+"['ut', 'utah']",108 198 agent_state.csv
+"['ut', 'utah']",112 198 foreign_worker_info_state.csv
+"['ut', 'utah']",113 198 employer_state.csv
+"['ut', 'utah']",113 198 job_info_work_state.csv
+"['va', 'virginia']",108 198 agent_state.csv
+"['va', 'virginia']",112 198 foreign_worker_info_state.csv
+"['va', 'virginia']",113 198 employer_state.csv
+"['va', 'virginia']",113 198 job_info_work_state.csv
+"['vermont', 'vt']",108 198 agent_state.csv
+"['vermont', 'vt']",112 198 foreign_worker_info_state.csv
+"['vermont', 'vt']",113 198 employer_state.csv
+"['vermont', 'vt']",113 198 job_info_work_state.csv
+"['vi', 'virgin islands']",112 198 foreign_worker_info_state.csv
+"['vi', 'virgin islands']",113 198 employer_state.csv
+"['vi', 'virgin islands']",113 198 job_info_work_state.csv
+"['vice president', 'vp']",1169 198 preparer_info_title.csv
+"['vietnamese language cultural1', 'vietnamese language culture5']",961 163 topic_key.csv
+"['vp of operations', 'vp operations']",1169 198 preparer_info_title.csv
+"['wa', 'washington']",108 198 agent_state.csv
+"['wa', 'washington']",112 198 foreign_worker_info_state.csv
+"['wa', 'washington']",113 198 employer_state.csv
+"['wa', 'washington']",113 198 job_info_work_state.csv
+"['waipara', 'waipara valley', 'wairarapa']",455 89 province.csv
+"['walsh', 'walshe']",388 282 SellerG.csv
+"['warren il', 'warren il 60064']",738 261 organization.csv
+"['web new technology', 'web technology']",961 163 topic_name.csv
+"['web new technology7', 'web writing2', 'web852']",961 163 topic_key.csv
+"['week', 'wk']",10 198 pw_unit_of_pay_9089.csv
+"['week', 'wk']",10 198 wage_offer_unit_of_pay_9089.csv
+"['well being', 'wellness']",961 163 topic_name.csv
+"['well being6', 'wellness and complentary lifestyels and therapies1', 'wellness coaching6', 'wellness well being3', 'wellness790']",961 163 topic_key.csv
+"['welsh corgi cardigan', 'welsh corgie cardigan']",1217 355 Breed_Description.csv
+"['welsh corgi cardigan x', 'welsh corgi x cardigan']",1217 355 Breed_Description.csv
+"['welsh corgi pembroke', 'welsh corgie pembroke']",1217 355 Breed_Description.csv
+"['west midlands', 'west midlands region']",167 266 state.csv
+"['west virginia', 'wv']",108 198 agent_state.csv
+"['west virginia', 'wv']",112 198 foreign_worker_info_state.csv
+"['west virginia', 'wv']",113 198 employer_state.csv
+"['west virginia', 'wv']",113 198 job_info_work_state.csv
+"['white swiss shepard', 'white swiss shepherd']",1217 355 Breed_Description.csv
+"['white yellow', 'yellow white']",789 355 Colour.csv
+"['wi', 'wisconsin']",108 198 agent_state.csv
+"['wi', 'wisconsin']",112 198 foreign_worker_info_state.csv
+"['wi', 'wisconsin']",113 198 employer_state.csv
+"['wi', 'wisconsin']",113 198 job_info_work_state.csv
+"['william', 'williams']",388 282 SellerG.csv
+"['wilmington de', 'wilmington de 19803']",738 261 organization.csv
+"['wine and food lovers6', 'wine and food pairing94', 'wine cheese and chocolate socials1', 'wine education34', 'wine food events1', 'wine tasting and food3', 'wine winetasting wine and food pairing winelovers20', 'wine356']",961 163 topic_key.csv
+"['winter garden', 'winter garden atrium at the wfc']",928 190 Venue.csv
+"['wire hair terrier', 'wirehaired terrier']",1217 355 Breed_Description.csv
+"['write', 'writing']",961 163 topic_name.csv
+"['write2', 'writing fiction books1', 'writing for pleasure1', 'writing for self discovery6', 'writing lyrics1', 'writing workshops81', 'writing311']",961 163 topic_key.csv
+"['wy', 'wyoming']",112 198 foreign_worker_info_state.csv
+"['wy', 'wyoming']",113 198 employer_state.csv
+"['wy', 'wyoming']",113 198 job_info_work_state.csv
+"['year', 'yr']",10 198 pw_unit_of_pay_9089.csv
+"['year', 'yr']",10 198 wage_offer_unit_of_pay_9089.csv
+"['zambia kwacha', 'zambian kwacha']",213 327 currency.csv
+"['zambia kwacha', 'zambian kwacha']",223 326 currency.csv
